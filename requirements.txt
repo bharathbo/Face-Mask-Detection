@@ -1,0 +1,9 @@
+LIBRARIES OF PYTHON
+
+tensorflow
+keras
+imutils
+numpy
+opencv-python
+matplotlib
+scipy
